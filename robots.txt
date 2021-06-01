@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ajaiau0.github.io/sitemap/sitemap-index.xml
+Host: https://ajaiau0.github.io
